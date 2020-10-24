@@ -1,0 +1,72 @@
+﻿[
+	{
+		"claims": [],
+		"ticket": {
+			"document": {
+				"receipt": {
+					"fiscalDriveNumber": "11",
+					"retailPlaceAddress": "Адрес 1",
+					"items": [
+						{
+							"sum": 8000,
+							"quantity": 1,
+							"name": "Товар 11",
+							"price": 8000
+						},
+						{
+							"sum": 2000,
+							"quantity": 2,
+							"name": "Товар 12",
+							"price": 1000
+						}
+					],
+					"dateTime": "2020-01-01T11:15:00",
+					"totalSum": 10000,
+					"userInn": "ИНН 1",
+					"ecashTotalSum": 10000,
+					"cashTotalSum": 0,
+					"user": "Организация 1",
+					"fiscalSign": 13,
+					"fiscalDocumentNumber": 12
+				}
+			}
+		},
+		"createdAt": "2020-08-15T10:24:01+03:00",
+		"timeLastAccess": "2020-08-15T10:24:01+03:00"
+	},
+	{
+		"claims": [],
+		"ticket": {
+			"document": {
+				"receipt": {
+					"fiscalDriveNumber": "21",
+					"retailPlaceAddress": "Адрес 2",
+					"items": [
+						{
+							"sum": 1000,
+							"quantity": 1,
+							"name": "Товар 21",
+							"price": 1000
+						},
+						{
+							"sum": 4000,
+							"quantity": 2,
+							"name": "Товар 22",
+							"price": 2000
+						}
+					],
+					"dateTime": "2020-01-01T12:30:00",
+					"totalSum": 5000,
+					"userInn": "ИНН 2",
+					"ecashTotalSum": 0,
+					"cashTotalSum": 5000,
+					"user": "Организация 2",
+					"fiscalSign": 23,
+					"fiscalDocumentNumber": 22
+				}
+			}
+		},
+		"createdAt": "2020-08-15T10:24:01+03:00",
+		"timeLastAccess": "2020-08-15T10:24:01+03:00"
+	}
+]
